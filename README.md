@@ -1,5 +1,5 @@
 # Soundiation-Acoustophoresis
-A MATLAB GUI, Soundiation, used to predict the acoustic radiation force and torque, thereby the acoustophoresis of any axisymmetric particle under a plane wavefield or a user-specified transducer array.
+Soundiation: a MATLAB GUI used to predict the acoustic radiation force and torque, thereby the acoustophoresis of any axisymmetric particle under a plane wavefield or a user-specified transducer array.
 
 Major features:
 - The particle can be arbitrarily axisymmetric geometry;
