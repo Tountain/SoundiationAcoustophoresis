@@ -16,15 +16,13 @@ Theoretical background:
 
 The program support parallel computation.
 
-To start the Soundiation GUI, add the folder path:
+The source codes are found in the ```src``` folder. To start the Soundiation GUI, add the folder path:
 
 ``` matlab
 addpath('<folderpath>/Soundiation-Acoustophoresis-main/src');
 ```
 
-The source code is found in the ```src``` folder.
-
-To open the the Soundiation GUI, type:
+Then, open the the Soundiation GUI by typing in Command Window (MATLAB):
 
 ``` matlab
 main_interface;
