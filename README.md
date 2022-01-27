@@ -50,9 +50,9 @@ Major functionalities includes:
 ## Contact
 Tianquan Tang
 
-Email address: tianquan@connect.hku.hk; ttqtianquan@gmail.com.
+- Email address: tianquan@connect.hku.hk; ttqtianquan@gmail.com.
 
-Researchgate: https://www.researchgate.net/profile/Tianquan-Tang.
+- Researchgate: https://www.researchgate.net/profile/Tianquan-Tang.
 
 
 ## References
