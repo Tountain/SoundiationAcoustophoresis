@@ -41,15 +41,18 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 
 ## Functionality
 
-Major functionality includes:
-- Prediction of the acoustic radiation force and torque for non-spherical particles;
-- Prediction of the translational and rotational motions of non-spherical particles above an user-specified transducer array.
+Major functionalities includes:
+- Design a non-spherical particle and output a "particle_data.stl" file;
+- Prediction of the acoustic radiation force and torque on non-spherical particles;
+- Prediction of the dynamics (translational and rotational motions) of non-spherical particles above an user-specified transducer array (the dynamic data is saved in a ".txt" file).
 
 
 ## Contact
 Tianquan Tang
 
-tianquan@connect.hku.hk
+Email address: tianquan@connect.hku.hk; ttqtianquan@gmail.com.
+Researchgate: https://www.researchgate.net/profile/Tianquan-Tang.
+
 
 ## References
 
