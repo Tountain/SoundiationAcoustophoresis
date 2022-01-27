@@ -35,8 +35,8 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 ## Documentation
 
 - ```./docs``` folder contains:
-  -  an user manual;
-  -  a code description.
+  -  a user manual;
+  -  a download address for COMSOL model.
 
 
 ## Functionality
