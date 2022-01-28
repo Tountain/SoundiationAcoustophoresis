@@ -53,6 +53,7 @@ Major functionalities includes:
 - Prediction of the acoustic radiation force and torque on non-spherical particles;
 - Prediction of the dynamics (translational and rotational motions) of non-spherical particles above an user-specified transducer array (the dynamic data is saved in a ".txt" file).
 
+![image](https://github.com/Tountain/Images/blob/main/GUI.bmp)
 
 ## Contact
 Tianquan Tang
