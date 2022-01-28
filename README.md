@@ -1,6 +1,8 @@
 # Soundiation-Acoustophoresis
 Soundiation: a MATLAB GUI-based software used to predict the acoustic radiation force and torque, thereby the acoustophoresis of any axisymmetric particle under a plane wavefield or a user-customized transducer array.
 
+![image](https://github.com/Tountain/Images/blob/main/GUI.bmp)
+
 Major features:
 - The particle can be designed as arbitrarily axisymmetric geometry (by the mapping coefficients "c_n");
 - The sound-hard (Neumann) and sound-soft (Dirichlet) boundary conditions are provided;
@@ -52,8 +54,7 @@ Major functionalities includes:
 - Design a non-spherical particle and output a "particle_data.stl" file;
 - Prediction of the acoustic radiation force and torque on non-spherical particles;
 - Prediction of the dynamics (translational and rotational motions) of non-spherical particles above an user-specified transducer array (the dynamic data is saved in a ".txt" file).
-
-![image](https://github.com/Tountain/Images/blob/main/GUI.bmp)
+- 
 
 ## Contact
 Tianquan Tang
