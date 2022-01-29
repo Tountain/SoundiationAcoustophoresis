@@ -37,15 +37,16 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 ## Documentation
 
 - ```./docs``` folder contains:
-  -  a user manual;
-  -  a numerical model (COMSOL Multiphysics 5.5) to validate the calculation results, if needed.
+  -  A numerical model (COMSOL Multiphysics 5.5) to validate the calculation results, if needed;
+  -  A user manual;
+  -  A program description.
 
 - ```./src``` folder contains:
-  -  all source codes (".m") and a GUI framework ("main_interface.fig") for the software;
+  -  All source codes (".m") and a GUI framework ("main_interface.fig") for the software.
 
 - ```./data file (example)``` folder contains: 
-  -  an example of the user designed particle geometry ("particle_data.stl");
-  -  an example of the predicted dynamic data (namely "Myfilename.txt" by default).
+  -  An example of the user designed particle geometry ("particle_data.stl");
+  -  An example of the predicted dynamic data (namely "Myfilename.txt" by default).
 
    **Note**: By default, the above data files are automatically saved in the ```./src``` folder.
 
