@@ -45,7 +45,9 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 
 - ```./data file (example)``` folder contains: 
   -  an example of the user designed particle geometry ("particle_data.stl");
-  -  an example of the predicted dynamic data ("Myfilename.txt" in default).
+  -  an example of the predicted dynamic data (namely "Myfilename.txt" by default).
+
+   Note: By default, the above data files are automatically saved in the ```./src``` folder.
 
 
 ## Functionality
@@ -53,7 +55,7 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 Major functionalities includes:
 - Design a non-spherical particle and output a "particle_data.stl" file;
 - Prediction of the acoustic radiation force and torque on non-spherical particles;
-- Prediction of the dynamics (translational and rotational motions) of non-spherical particles above an user-specified transducer array (the dynamic data is saved in a ".txt" file).
+- Prediction of the dynamics (translational and rotational motions) of non-spherical particles above an user-specified transducer array (the dynamic data is saved in a "Myfilename.txt" by default).
 
 
 ## Contact
