@@ -47,7 +47,7 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
   -  an example of the user designed particle geometry ("particle_data.stl");
   -  an example of the predicted dynamic data (namely "Myfilename.txt" by default).
 
-   Note: By default, the above data files are automatically saved in the ```./src``` folder.
+   **Note**: By default, the above data files are automatically saved in the ```./src``` folder.
 
 
 ## Functionality
