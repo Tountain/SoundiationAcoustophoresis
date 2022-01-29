@@ -38,8 +38,8 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 
 - ```./docs``` folder contains:
   -  A numerical model (COMSOL Multiphysics 5.5) to validate the calculation results, if needed;
-  -  A user manual;
-  -  A program description.
+  -  A program description;
+  -  A user manual.
 
 - ```./src``` folder contains:
   -  All source codes (".m") and a GUI framework ("main_interface.fig") for the software.
