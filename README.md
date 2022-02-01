@@ -76,4 +76,4 @@ Tianquan Tang
 
 [4] T. Tang, L. Huang, A fast semi-analytical procedure to calculate acoustic radiation force and torque for axisymmetric irregular bodies, Under Review (2022).
 
-[5] T. Tang, L. Huang, An efficient procedure to predict the acoustophoresis of axisymmetric irregular particles above ultrasound transducer array, Under Review (2022).
+[5] T. Tang, L. Huang, An efficient procedure to predict the acoustophoresis of axisymmetric irregular particles above ultrasound transducer array (2022). arXiv:2201.13042.
