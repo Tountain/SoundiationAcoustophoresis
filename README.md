@@ -36,7 +36,7 @@ Soundiation has been tested with MATLAB2010a and above and should run on most pe
 
 ## Documentation
 
-- File ```arXiv/2202.04526``` is a description preprint for the software.
+- File ```arXiv_2202.04526``` is a description preprint for the software.
 
 - ```./docs``` folder contains:
   -  A numerical model (by COMSOL Multiphysics 5.5) to validate the calculation results, if needed;
