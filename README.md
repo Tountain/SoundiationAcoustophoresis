@@ -76,6 +76,6 @@ Tianquan Tang
 
 [3] T. Tang, L. Huang, Acoustic radiation force for multiple particles over a wide size-scale by multiple ultrasound sources, Journal of Sound and Vibration (2021) 116256.
 
-[4] T. Tang, L. Huang, A fast semi-analytical procedure to calculate acoustic radiation force and torque for axisymmetric irregular bodies, Under Review (2022).
+[4] T. Tang, L. Huang, An efficient semi-analytical procedure to calculate acoustic radiation force and torque for axisymmetric irregular bodies, Journal of Sound and Vibration (2022) 117012.
 
 [5] T. Tang, L. Huang, An efficient procedure to predict the acoustophoresis of axisymmetric irregular particles above ultrasound transducer array (2022). arXiv:2201.13042.
