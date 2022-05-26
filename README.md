@@ -74,8 +74,8 @@ Tianquan Tang
 
 [2] P. A. Martin, Multiple scattering: interaction of time-harmonic waves with N obstacles, Cambridge University Press, 2006.
 
-[3] T. Tang, L. Huang, Acoustic radiation force for multiple particles over a wide size-scale by multiple ultrasound sources, Journal of Sound and Vibration (2021) 116256.
+[3] T. Tang, L. Huang, Acoustic radiation force for multiple particles over a wide size-scale by multiple ultrasound sources, Journal of Sound and Vibration 509 (2021) 116256.
 
-[4] T. Tang, L. Huang, An efficient semi-analytical procedure to calculate acoustic radiation force and torque for axisymmetric irregular bodies, Journal of Sound and Vibration (2022) 117012.
+[4] T. Tang, L. Huang, An efficient semi-analytical procedure to calculate acoustic radiation force and torque for axisymmetric irregular bodies, Journal of Sound and Vibration 532 (2022) 117012.
 
-[5] T. Tang, L. Huang, An efficient procedure to predict the acoustophoresis of axisymmetric irregular particles above ultrasound transducer array (2022). arXiv:2201.13042.
+[5] T. Tang, L. Huang, An efficient procedure to predict the acoustophoresis of axisymmetric irregular particles above ultrasound transducer array, Physical Review E 105 (2022) 055110 (or arXiv:2201.13042).
