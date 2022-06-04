@@ -11,7 +11,7 @@ Major features:
 
 Theoretical background:
 - The partial wave expansion method [1];
-- The translation addiation theorem [2, 3];
+- The translation addition theorem [2, 3];
 - The conformal mapping technique [4, 5];
 
 ## Initialization
